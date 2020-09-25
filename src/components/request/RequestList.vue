@@ -40,7 +40,7 @@ export default {
     },
     requests: [],
     filter: true,
-    show: 'true',
+    show:true',
   }),
   components: {
     's-request': Request,
